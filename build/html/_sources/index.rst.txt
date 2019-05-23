@@ -11,6 +11,9 @@ Welcome to zeno's wiki!
    :caption: Contents:
 
    contact
+   sphinx
+
+ 
 
 
 

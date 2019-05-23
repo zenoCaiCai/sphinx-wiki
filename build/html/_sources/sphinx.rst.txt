@@ -1,0 +1,7 @@
+==================
+Sphinx references:
+==================
+
+https://kyzhang.me/2018/05/08/Sphinx-Readthedocs-GitHub2build-wiki/
+
+https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html
